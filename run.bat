@@ -1,0 +1,2 @@
+python NearDuplicates.py
+pause
